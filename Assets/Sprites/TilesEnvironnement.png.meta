@@ -1,0 +1,2095 @@
+fileFormatVersion: 2
+guid: 1ac100da2ef79f3418e7f77dcd9893cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3361679009254169367
+    second: TilesEnvironnement_0
+  - first:
+      213: -8599924898400790717
+    second: TilesEnvironnement_1
+  - first:
+      213: 6002452532481066280
+    second: TilesEnvironnement_2
+  - first:
+      213: 7132424637747862092
+    second: TilesEnvironnement_3
+  - first:
+      213: -413590207659782060
+    second: TilesEnvironnement_4
+  - first:
+      213: 7416106252375989734
+    second: TilesEnvironnement_5
+  - first:
+      213: 1319296908311726071
+    second: TilesEnvironnement_6
+  - first:
+      213: -2536909392409685046
+    second: TilesEnvironnement_7
+  - first:
+      213: 4526591369722399473
+    second: TilesEnvironnement_8
+  - first:
+      213: 248949957057855759
+    second: TilesEnvironnement_9
+  - first:
+      213: -3509748866388704234
+    second: TilesEnvironnement_10
+  - first:
+      213: 2888194793109735760
+    second: TilesEnvironnement_11
+  - first:
+      213: -8467267603943206502
+    second: TilesEnvironnement_12
+  - first:
+      213: -3805167334261470308
+    second: TilesEnvironnement_13
+  - first:
+      213: -5079519219176012254
+    second: TilesEnvironnement_14
+  - first:
+      213: 3103939394764439183
+    second: TilesEnvironnement_15
+  - first:
+      213: -6297176877206343725
+    second: TilesEnvironnement_16
+  - first:
+      213: 4134020263081739545
+    second: TilesEnvironnement_17
+  - first:
+      213: -7528342045268138325
+    second: TilesEnvironnement_18
+  - first:
+      213: -770630601404583462
+    second: TilesEnvironnement_19
+  - first:
+      213: 4951529989764460022
+    second: TilesEnvironnement_20
+  - first:
+      213: -973642642961205850
+    second: TilesEnvironnement_21
+  - first:
+      213: 4133215862544879498
+    second: TilesEnvironnement_22
+  - first:
+      213: 887911173323607972
+    second: TilesEnvironnement_23
+  - first:
+      213: -839822374475674034
+    second: TilesEnvironnement_24
+  - first:
+      213: 840218163511124825
+    second: TilesEnvironnement_25
+  - first:
+      213: 6245502250572323434
+    second: TilesEnvironnement_26
+  - first:
+      213: 2515987515355047769
+    second: TilesEnvironnement_27
+  - first:
+      213: 3023777668254926284
+    second: TilesEnvironnement_28
+  - first:
+      213: 4789764232052368379
+    second: TilesEnvironnement_29
+  - first:
+      213: 5068030775407187053
+    second: TilesEnvironnement_30
+  - first:
+      213: -763847274182417994
+    second: TilesEnvironnement_31
+  - first:
+      213: 7532582580696928816
+    second: TilesEnvironnement_32
+  - first:
+      213: 3578111629999892002
+    second: TilesEnvironnement_33
+  - first:
+      213: 7042312377035099683
+    second: TilesEnvironnement_34
+  - first:
+      213: 6664512825317549023
+    second: TilesEnvironnement_35
+  - first:
+      213: 8388882410608110446
+    second: TilesEnvironnement_36
+  - first:
+      213: -7152162524800075361
+    second: TilesEnvironnement_37
+  - first:
+      213: 635141971942457316
+    second: TilesEnvironnement_38
+  - first:
+      213: -4060045964850976825
+    second: TilesEnvironnement_39
+  - first:
+      213: -8790203748878294272
+    second: TilesEnvironnement_40
+  - first:
+      213: -3295369181827525640
+    second: TilesEnvironnement_41
+  - first:
+      213: 8593315648256489076
+    second: TilesEnvironnement_42
+  - first:
+      213: 3606019714195256727
+    second: TilesEnvironnement_43
+  - first:
+      213: 6110519329487617828
+    second: TilesEnvironnement_44
+  - first:
+      213: 2330216403339175690
+    second: TilesEnvironnement_45
+  - first:
+      213: -3835132768349409874
+    second: TilesEnvironnement_46
+  - first:
+      213: 1990148614995259713
+    second: TilesEnvironnement_47
+  - first:
+      213: -5645849461666066460
+    second: TilesEnvironnement_48
+  - first:
+      213: 7955754422431501491
+    second: TilesEnvironnement_49
+  - first:
+      213: 82951166869592726
+    second: TilesEnvironnement_50
+  - first:
+      213: 4861852646796415564
+    second: TilesEnvironnement_51
+  - first:
+      213: 6439315468478872741
+    second: TilesEnvironnement_52
+  - first:
+      213: -5932574073768028722
+    second: TilesEnvironnement_53
+  - first:
+      213: -1124184637671108517
+    second: TilesEnvironnement_54
+  - first:
+      213: -3143215176106249038
+    second: TilesEnvironnement_55
+  - first:
+      213: 5889627311640369169
+    second: TilesEnvironnement_56
+  - first:
+      213: -6547444137754233291
+    second: TilesEnvironnement_57
+  - first:
+      213: -5145779360955689981
+    second: TilesEnvironnement_58
+  - first:
+      213: 2264491743971275707
+    second: TilesEnvironnement_59
+  - first:
+      213: 1196084750988618487
+    second: TilesEnvironnement_60
+  - first:
+      213: -2617441392735654730
+    second: TilesEnvironnement_61
+  - first:
+      213: 2819696852561556312
+    second: TilesEnvironnement_62
+  - first:
+      213: -8757677035467064253
+    second: TilesEnvironnement_63
+  - first:
+      213: 1130516060901845947
+    second: TilesEnvironnement_64
+  - first:
+      213: -6703054766462900029
+    second: TilesEnvironnement_65
+  - first:
+      213: 2519392617530797821
+    second: TilesEnvironnement_66
+  - first:
+      213: -824219732483935222
+    second: TilesEnvironnement_67
+  - first:
+      213: -6578274410171332023
+    second: TilesEnvironnement_68
+  - first:
+      213: -3284217535090951521
+    second: TilesEnvironnement_69
+  - first:
+      213: -3118535435004421761
+    second: TilesEnvironnement_70
+  - first:
+      213: 5823112579043054893
+    second: TilesEnvironnement_71
+  - first:
+      213: 5985399388236315015
+    second: TilesEnvironnement_72
+  - first:
+      213: 3832705655363822155
+    second: TilesEnvironnement_73
+  - first:
+      213: 1118931225698908079
+    second: TilesEnvironnement_74
+  - first:
+      213: 5432534359049811327
+    second: TilesEnvironnement_75
+  - first:
+      213: 3408512773656299399
+    second: TilesEnvironnement_76
+  - first:
+      213: -2084595899946840306
+    second: TilesEnvironnement_77
+  - first:
+      213: -6113691306866211053
+    second: TilesEnvironnement_78
+  - first:
+      213: 94524339941485676
+    second: TilesEnvironnement_79
+  - first:
+      213: 360644719367160344
+    second: TilesEnvironnement_0
+  - first:
+      213: 3675667247065212721
+    second: TilesEnvironnement_1
+  - first:
+      213: 1931214833798827142
+    second: TilesEnvironnement_2
+  - first:
+      213: 5506790576167874592
+    second: TilesEnvironnement_3
+  - first:
+      213: 38830901704599464
+    second: TilesEnvironnement_4
+  - first:
+      213: -2147911614481794839
+    second: TilesEnvironnement_5
+  - first:
+      213: -5439952425649684965
+    second: TilesEnvironnement_6
+  - first:
+      213: 8572530580255974995
+    second: TilesEnvironnement_7
+  - first:
+      213: 2957122870041816949
+    second: TilesEnvironnement_8
+  - first:
+      213: 7900493768296582477
+    second: TilesEnvironnement_9
+  - first:
+      213: -6782913848017478166
+    second: TilesEnvironnement_10
+  - first:
+      213: 5329132270383921139
+    second: TilesEnvironnement_11
+  - first:
+      213: -2016429017665477216
+    second: TilesEnvironnement_12
+  - first:
+      213: 8260110327678266254
+    second: TilesEnvironnement_13
+  - first:
+      213: -8058372720494892053
+    second: TilesEnvironnement_14
+  - first:
+      213: -4364394220923257967
+    second: TilesEnvironnement_15
+  - first:
+      213: 1069503920772696082
+    second: TilesEnvironnement_16
+  - first:
+      213: 8385833187213977779
+    second: TilesEnvironnement_17
+  - first:
+      213: 782092436122674784
+    second: TilesEnvironnement_18
+  - first:
+      213: -2370818442606707812
+    second: TilesEnvironnement_19
+  - first:
+      213: 6600149759887494040
+    second: TilesEnvironnement_20
+  - first:
+      213: 8263087700951389497
+    second: TilesEnvironnement_21
+  - first:
+      213: -2380154474379775399
+    second: TilesEnvironnement_22
+  - first:
+      213: -68854276512155370
+    second: TilesEnvironnement_23
+  - first:
+      213: 6488152903501344020
+    second: TilesEnvironnement_24
+  - first:
+      213: 8498214032413763777
+    second: TilesEnvironnement_25
+  - first:
+      213: -4690576529287685857
+    second: TilesEnvironnement_26
+  - first:
+      213: 1788884934328632517
+    second: TilesEnvironnement_27
+  - first:
+      213: -2526048457516979259
+    second: TilesEnvironnement_28
+  - first:
+      213: -2021668527013462380
+    second: TilesEnvironnement_29
+  - first:
+      213: -7597608236523327367
+    second: TilesEnvironnement_30
+  - first:
+      213: 8964045563945352965
+    second: TilesEnvironnement_31
+  - first:
+      213: -3902776580108181985
+    second: TilesEnvironnement_32
+  - first:
+      213: 1832854576751431552
+    second: TilesEnvironnement_33
+  - first:
+      213: 8703154874977383695
+    second: TilesEnvironnement_34
+  - first:
+      213: 5030020601235883733
+    second: TilesEnvironnement_35
+  - first:
+      213: 2272834889970782849
+    second: TilesEnvironnement_36
+  - first:
+      213: 4205970144449824866
+    second: TilesEnvironnement_37
+  - first:
+      213: 7938677505054338870
+    second: TilesEnvironnement_38
+  - first:
+      213: -6412815442375506622
+    second: TilesEnvironnement_39
+  - first:
+      213: 4466307262337479285
+    second: TilesEnvironnement_40
+  - first:
+      213: -8652522445535727156
+    second: TilesEnvironnement_41
+  - first:
+      213: 1340046386375127908
+    second: TilesEnvironnement_42
+  - first:
+      213: 1982249184529045664
+    second: TilesEnvironnement_43
+  - first:
+      213: -9113641360210515077
+    second: TilesEnvironnement_44
+  - first:
+      213: 4049402383321249283
+    second: TilesEnvironnement_45
+  - first:
+      213: 9175202291321763730
+    second: TilesEnvironnement_46
+  - first:
+      213: -6201508845209224675
+    second: TilesEnvironnement_47
+  - first:
+      213: 9056768297928647619
+    second: TilesEnvironnement_48
+  - first:
+      213: -7190110866752709248
+    second: TilesEnvironnement_49
+  - first:
+      213: 8178420226807017360
+    second: TilesEnvironnement_50
+  - first:
+      213: 2447442116380226944
+    second: TilesEnvironnement_51
+  - first:
+      213: -4775105989328866534
+    second: TilesEnvironnement_52
+  - first:
+      213: -732150839098932277
+    second: TilesEnvironnement_53
+  - first:
+      213: 5593363311217354832
+    second: TilesEnvironnement_54
+  - first:
+      213: 2303298463858793801
+    second: TilesEnvironnement_55
+  - first:
+      213: 2145635860143741651
+    second: TilesEnvironnement_56
+  - first:
+      213: -7237458444925200960
+    second: TilesEnvironnement_57
+  - first:
+      213: -2598489567725894353
+    second: TilesEnvironnement_58
+  - first:
+      213: 746687180651000273
+    second: TilesEnvironnement_59
+  - first:
+      213: -8750548731814299858
+    second: TilesEnvironnement_60
+  - first:
+      213: -1953634453927174767
+    second: TilesEnvironnement_61
+  - first:
+      213: 5250866264049045689
+    second: TilesEnvironnement_62
+  - first:
+      213: -7391518393095408553
+    second: TilesEnvironnement_63
+  - first:
+      213: 6049289923172719466
+    second: TilesEnvironnement_64
+  - first:
+      213: 1106032557137874272
+    second: TilesEnvironnement_65
+  - first:
+      213: 4267148274194742619
+    second: TilesEnvironnement_66
+  - first:
+      213: -2043355884858806484
+    second: TilesEnvironnement_67
+  - first:
+      213: 5632785196399000290
+    second: TilesEnvironnement_68
+  - first:
+      213: 6536230388667651941
+    second: TilesEnvironnement_69
+  - first:
+      213: 189942859844588992
+    second: TilesEnvironnement_70
+  - first:
+      213: -7230690926349212622
+    second: TilesEnvironnement_71
+  - first:
+      213: 8027889688673686346
+    second: TilesEnvironnement_72
+  - first:
+      213: 7390115718987613820
+    second: TilesEnvironnement_73
+  - first:
+      213: -9074624112219504302
+    second: TilesEnvironnement_74
+  - first:
+      213: -1929946347575806610
+    second: TilesEnvironnement_75
+  - first:
+      213: -4915967398603941686
+    second: TilesEnvironnement_76
+  - first:
+      213: -4763915836360144900
+    second: TilesEnvironnement_77
+  - first:
+      213: -6243071651613854890
+    second: TilesEnvironnement_78
+  - first:
+      213: 5201288546882222544
+    second: TilesEnvironnement_79
+  - first:
+      213: 4733571528290716956
+    second: TilesEnvironnement_80
+  - first:
+      213: 5138556007883028733
+    second: TilesEnvironnement_81
+  - first:
+      213: -2814424359681386342
+    second: TilesEnvironnement_82
+  - first:
+      213: -1126272447467339015
+    second: TilesEnvironnement_83
+  - first:
+      213: 3688440167636675180
+    second: TilesEnvironnement_84
+  - first:
+      213: -7763390287204606486
+    second: TilesEnvironnement_85
+  - first:
+      213: 6719076948004007791
+    second: TilesEnvironnement_86
+  - first:
+      213: -7153999731618076904
+    second: TilesEnvironnement_87
+  - first:
+      213: 1826477545570077493
+    second: TilesEnvironnement_88
+  - first:
+      213: -7977690996236528337
+    second: TilesEnvironnement_89
+  - first:
+      213: -1344785842542512996
+    second: TilesEnvironnement_90
+  - first:
+      213: 8369375890503710333
+    second: TilesEnvironnement_91
+  - first:
+      213: 1669972058804477626
+    second: TilesEnvironnement_92
+  - first:
+      213: 4647765436810951863
+    second: TilesEnvironnement_93
+  - first:
+      213: -1673845257614193225
+    second: TilesEnvironnement_94
+  - first:
+      213: 1238867848218543606
+    second: TilesEnvironnement_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TilesEnvironnement_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81200042674410500800000000000000
+      internalID: 360644719367160344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1372cddf2e7920330800000000000000
+      internalID: 3675667247065212721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c4b89c8ad0dca10800000000000000
+      internalID: 1931214833798827142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02074f05adc0c6c40800000000000000
+      internalID: 5506790576167874592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_4
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a72966df74f98000800000000000000
+      internalID: 38830901704599464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e870e944c51132e0800000000000000
+      internalID: -2147911614481794839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_6
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e302a47186184b0800000000000000
+      internalID: -5439952425649684965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_7
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356a45eb42fb7f670800000000000000
+      internalID: 8572530580255974995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fa602359fc90920800000000000000
+      internalID: 2957122870041816949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d4181493134ad60800000000000000
+      internalID: 7900493768296582477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_10
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed17daeacf3ed1a0800000000000000
+      internalID: -6782913848017478166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7fd41a091e4f940800000000000000
+      internalID: 5329132270383921139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_12
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5624fed743404e0800000000000000
+      internalID: -2016429017665477216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_13
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b6cce349ec1a270800000000000000
+      internalID: 8260110327678266254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb243fa4b8ea2090800000000000000
+      internalID: -8058372720494892053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_15
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bf912649e8e63c0800000000000000
+      internalID: -4364394220923257967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2184b834624a7de00800000000000000
+      internalID: 1069503920772696082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9355b1bfb726ca270800000000000000
+      internalID: 8263087700951389497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_22
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952790cbd1ef7fed0800000000000000
+      internalID: -2380154474379775399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619f93b76616b0ff0800000000000000
+      internalID: -68854276512155370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ded95a0bc8a0a50800000000000000
+      internalID: 6488152903501344020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_25
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8234313a8bfe570800000000000000
+      internalID: 8498214032413763777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_26
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19d5049f79b7eeb0800000000000000
+      internalID: -4690576529287685857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_27
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4c4beae5563d810800000000000000
+      internalID: 1788884934328632517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_28
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbe64cbf4ca1fcd0800000000000000
+      internalID: -2526048457516979259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_29
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e76c99f2791f3e0800000000000000
+      internalID: -2021668527013462380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_30
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970f17f009fdf8690800000000000000
+      internalID: -7597608236523327367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ff06562ffa66c70800000000000000
+      internalID: 8964045563945352965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_32
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e10f0d06d86d9c0800000000000000
+      internalID: -3902776580108181985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_33
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fc734d68b9f6910800000000000000
+      internalID: 1832854576751431552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f057c3c5f31d7c870800000000000000
+      internalID: 8703154874977383695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_35
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6cf8d26193ec540800000000000000
+      internalID: 5030020601235883733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18292d95a4bba8f10800000000000000
+      internalID: 2272834889970782849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_37
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26884dbef8b9e5a30800000000000000
+      internalID: 4205970144449824866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_42
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4637f6aa61dc89210800000000000000
+      internalID: 1340046386375127908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_43
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a85924812d528b10800000000000000
+      internalID: 1982249184529045664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_44
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b28521877d58180800000000000000
+      internalID: -9113641360210515077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_45
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306bb72530e523830800000000000000
+      internalID: 4049402383321249283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_46
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29775942fddd45f70800000000000000
+      internalID: 9175202291321763730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_47
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a7cd1ff80dfe9a0800000000000000
+      internalID: -6201508845209224675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c36e0b38ca10bd70800000000000000
+      internalID: 9056768297928647619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_49
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d5783f248973c90800000000000000
+      internalID: -7190110866752709248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_50
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fa3ba7dd59f7170800000000000000
+      internalID: 8178420226807017360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_51
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0857c2343af07f120800000000000000
+      internalID: 2447442116380226944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_52
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13763df66a6bbdb0800000000000000
+      internalID: -4775105989328866534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_53
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc30181e0b0e6d5f0800000000000000
+      internalID: -732150839098932277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_54
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05820d0fb4e9f9d40800000000000000
+      internalID: 5593363311217354832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_55
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d910edfb5f6ff10800000000000000
+      internalID: 2303298463858793801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_56
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da153d5274d6cd10800000000000000
+      internalID: 2145635860143741651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_57
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c51599d3e16f8b90800000000000000
+      internalID: -7237458444925200960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_58
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25c32b618f40fbd0800000000000000
+      internalID: -2598489567725894353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_63
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75438c4fe2d0c6990800000000000000
+      internalID: -7391518393095408553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_64
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b5f06722563f350800000000000000
+      internalID: 6049289923172719466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d483e20ca695f00800000000000000
+      internalID: 1106032557137874272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_66
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d7c4f3fb4f73b30800000000000000
+      internalID: 4267148274194742619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_67
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f694d16aa84a3e0800000000000000
+      internalID: -2043355884858806484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_68
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaf077da4cab2e40800000000000000
+      internalID: 5632785196399000290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915014bb68dfe5930800000000000000
+      internalID: 4134020263081739545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6a724fbc4f58790800000000000000
+      internalID: -7528342045268138325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_19
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1fb3e0d8b2e45f0800000000000000
+      internalID: -770630601404583462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_20
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdaa969a4e57b440800000000000000
+      internalID: 4951529989764460022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_38
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef3293224a70d800800000000000000
+      internalID: 635141971942457316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_39
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7ac4db4b1d7a7c0800000000000000
+      internalID: -4060045964850976825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_40
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0036dcc434ce20680800000000000000
+      internalID: -8790203748878294272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_41
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f39661503f7442d0800000000000000
+      internalID: -3295369181827525640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_59
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3763c4e371d6f10800000000000000
+      internalID: 2264491743971275707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_60
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa20ff6eb8599010800000000000000
+      internalID: 1196084750988618487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_61
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc669dcbeafcabd0800000000000000
+      internalID: -2617441392735654730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesEnvironnement_62
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853f7371953912720800000000000000
+      internalID: 2819696852561556312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

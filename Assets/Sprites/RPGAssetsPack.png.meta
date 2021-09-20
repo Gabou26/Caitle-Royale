@@ -1,0 +1,4462 @@
+fileFormatVersion: 2
+guid: c0ab7364e5d65214c8a0395fbe8b60de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4330720838262878433
+    second: RPGAssetsPack_0
+  - first:
+      213: -1422257634584708295
+    second: RPGAssetsPack_1
+  - first:
+      213: 5198937568464014353
+    second: RPGAssetsPack_2
+  - first:
+      213: 8222106830096257187
+    second: RPGAssetsPack_3
+  - first:
+      213: 3385773651589351957
+    second: RPGAssetsPack_4
+  - first:
+      213: 2551932125100491754
+    second: RPGAssetsPack_5
+  - first:
+      213: 2205326042692985568
+    second: RPGAssetsPack_6
+  - first:
+      213: -8902073225765156035
+    second: RPGAssetsPack_7
+  - first:
+      213: 5949211678207117380
+    second: RPGAssetsPack_8
+  - first:
+      213: 8065876718497911805
+    second: RPGAssetsPack_9
+  - first:
+      213: 6223589571777842126
+    second: RPGAssetsPack_10
+  - first:
+      213: 123858728801982244
+    second: RPGAssetsPack_11
+  - first:
+      213: 4570292450562554938
+    second: RPGAssetsPack_12
+  - first:
+      213: -7971272210961601079
+    second: RPGAssetsPack_13
+  - first:
+      213: -1042481857767417215
+    second: RPGAssetsPack_14
+  - first:
+      213: 8502649463597863556
+    second: RPGAssetsPack_15
+  - first:
+      213: 6271372676388659659
+    second: RPGAssetsPack_16
+  - first:
+      213: 4366624460643259613
+    second: RPGAssetsPack_17
+  - first:
+      213: 8351212009817634566
+    second: RPGAssetsPack_18
+  - first:
+      213: 4059799313460099854
+    second: RPGAssetsPack_19
+  - first:
+      213: 1888024654154613914
+    second: RPGAssetsPack_20
+  - first:
+      213: 5618677806873775210
+    second: RPGAssetsPack_21
+  - first:
+      213: 577646626514670663
+    second: RPGAssetsPack_22
+  - first:
+      213: -2940005986774708368
+    second: RPGAssetsPack_23
+  - first:
+      213: -5325481171857005398
+    second: RPGAssetsPack_24
+  - first:
+      213: 3768733965307423845
+    second: RPGAssetsPack_25
+  - first:
+      213: -3071910354241080613
+    second: RPGAssetsPack_26
+  - first:
+      213: -7036532661906266075
+    second: RPGAssetsPack_27
+  - first:
+      213: 2877927462443511584
+    second: RPGAssetsPack_28
+  - first:
+      213: -4559957741291752098
+    second: RPGAssetsPack_29
+  - first:
+      213: 7966341200551477826
+    second: RPGAssetsPack_30
+  - first:
+      213: 8025194457729469591
+    second: RPGAssetsPack_31
+  - first:
+      213: 6600360758730851823
+    second: RPGAssetsPack_32
+  - first:
+      213: 5297969429211643769
+    second: RPGAssetsPack_33
+  - first:
+      213: -6917478365842981667
+    second: RPGAssetsPack_34
+  - first:
+      213: -2804740118692456108
+    second: RPGAssetsPack_35
+  - first:
+      213: -1081812014255583104
+    second: RPGAssetsPack_36
+  - first:
+      213: 18168577093933100
+    second: RPGAssetsPack_37
+  - first:
+      213: 7284539562662949308
+    second: RPGAssetsPack_38
+  - first:
+      213: 837413690939907246
+    second: RPGAssetsPack_39
+  - first:
+      213: 4275902047173315058
+    second: RPGAssetsPack_40
+  - first:
+      213: -1979364326750794252
+    second: RPGAssetsPack_41
+  - first:
+      213: -1287132205857703132
+    second: RPGAssetsPack_42
+  - first:
+      213: -4455827431415270929
+    second: RPGAssetsPack_43
+  - first:
+      213: -2744386576042941875
+    second: RPGAssetsPack_44
+  - first:
+      213: -2442257338933880881
+    second: RPGAssetsPack_45
+  - first:
+      213: -6595343704365084082
+    second: RPGAssetsPack_46
+  - first:
+      213: 6410505616313795252
+    second: RPGAssetsPack_47
+  - first:
+      213: 3594965133101441581
+    second: RPGAssetsPack_48
+  - first:
+      213: 3513271714498506640
+    second: RPGAssetsPack_49
+  - first:
+      213: -3425364422630528023
+    second: RPGAssetsPack_50
+  - first:
+      213: -9218407775435708053
+    second: RPGAssetsPack_51
+  - first:
+      213: -8168733073797405351
+    second: RPGAssetsPack_52
+  - first:
+      213: -7037267173066437740
+    second: RPGAssetsPack_53
+  - first:
+      213: -5595874827926890818
+    second: RPGAssetsPack_54
+  - first:
+      213: -7564387974220071807
+    second: RPGAssetsPack_55
+  - first:
+      213: 5956258280746159088
+    second: RPGAssetsPack_56
+  - first:
+      213: 5122959830763842123
+    second: RPGAssetsPack_57
+  - first:
+      213: 58332502164248984
+    second: RPGAssetsPack_58
+  - first:
+      213: -286408663222303431
+    second: RPGAssetsPack_59
+  - first:
+      213: -4792708234149122496
+    second: RPGAssetsPack_60
+  - first:
+      213: 642038816104500995
+    second: RPGAssetsPack_61
+  - first:
+      213: -36938834379434367
+    second: RPGAssetsPack_62
+  - first:
+      213: 9035679437127277184
+    second: RPGAssetsPack_63
+  - first:
+      213: 1194384698035381856
+    second: RPGAssetsPack_64
+  - first:
+      213: 7262985442702463780
+    second: RPGAssetsPack_65
+  - first:
+      213: -5058419916090432282
+    second: RPGAssetsPack_66
+  - first:
+      213: 5971313812918356504
+    second: RPGAssetsPack_67
+  - first:
+      213: -3240985246968901997
+    second: RPGAssetsPack_68
+  - first:
+      213: 4829641176105396466
+    second: RPGAssetsPack_69
+  - first:
+      213: 6803148570240055006
+    second: RPGAssetsPack_70
+  - first:
+      213: 6648275948955543149
+    second: RPGAssetsPack_71
+  - first:
+      213: 6052530780276029083
+    second: RPGAssetsPack_72
+  - first:
+      213: -12313849149536283
+    second: RPGAssetsPack_73
+  - first:
+      213: -2051890896647355594
+    second: RPGAssetsPack_74
+  - first:
+      213: 5525318328709308563
+    second: RPGAssetsPack_75
+  - first:
+      213: 655812571086540682
+    second: RPGAssetsPack_76
+  - first:
+      213: -6707208948826854533
+    second: RPGAssetsPack_77
+  - first:
+      213: -5491472325546366365
+    second: RPGAssetsPack_78
+  - first:
+      213: 8842414856425696034
+    second: RPGAssetsPack_79
+  - first:
+      213: 1764583346083170880
+    second: RPGAssetsPack_80
+  - first:
+      213: 6813989810732501026
+    second: RPGAssetsPack_81
+  - first:
+      213: -7711041066971136111
+    second: RPGAssetsPack_82
+  - first:
+      213: -344938565402475136
+    second: RPGAssetsPack_83
+  - first:
+      213: -35345219516406563
+    second: RPGAssetsPack_84
+  - first:
+      213: -3200338521692676743
+    second: RPGAssetsPack_85
+  - first:
+      213: 1108909970960889227
+    second: RPGAssetsPack_86
+  - first:
+      213: 7584190276870047224
+    second: RPGAssetsPack_87
+  - first:
+      213: -8656769586047535851
+    second: RPGAssetsPack_88
+  - first:
+      213: 484569018311969973
+    second: RPGAssetsPack_89
+  - first:
+      213: 6499395284893040780
+    second: RPGAssetsPack_90
+  - first:
+      213: -6130970649110798135
+    second: RPGAssetsPack_91
+  - first:
+      213: 5783356031934593631
+    second: RPGAssetsPack_92
+  - first:
+      213: -1487777698755779472
+    second: RPGAssetsPack_93
+  - first:
+      213: -7320743933537832482
+    second: RPGAssetsPack_94
+  - first:
+      213: 5267021830865327960
+    second: RPGAssetsPack_95
+  - first:
+      213: -7797085700382744149
+    second: RPGAssetsPack_96
+  - first:
+      213: 3262067752102754796
+    second: RPGAssetsPack_97
+  - first:
+      213: -6878061039047534482
+    second: RPGAssetsPack_98
+  - first:
+      213: -3021200470854781251
+    second: RPGAssetsPack_99
+  - first:
+      213: -5469033079414482241
+    second: RPGAssetsPack_100
+  - first:
+      213: -2474464137898472148
+    second: RPGAssetsPack_101
+  - first:
+      213: 7765670075272860511
+    second: RPGAssetsPack_102
+  - first:
+      213: -9164562873483629963
+    second: RPGAssetsPack_103
+  - first:
+      213: 6469472495099122840
+    second: RPGAssetsPack_104
+  - first:
+      213: -1228037821113092547
+    second: RPGAssetsPack_105
+  - first:
+      213: -5051380640903442817
+    second: RPGAssetsPack_106
+  - first:
+      213: 4235211634123290248
+    second: RPGAssetsPack_107
+  - first:
+      213: -3174515298890090906
+    second: RPGAssetsPack_108
+  - first:
+      213: 3927664088905058857
+    second: RPGAssetsPack_109
+  - first:
+      213: 5134813195124944598
+    second: RPGAssetsPack_110
+  - first:
+      213: -5069040030937428995
+    second: RPGAssetsPack_111
+  - first:
+      213: 5476710009038798393
+    second: RPGAssetsPack_112
+  - first:
+      213: -6807045637810540191
+    second: RPGAssetsPack_113
+  - first:
+      213: 1302618611736502253
+    second: RPGAssetsPack_114
+  - first:
+      213: 3515466019365504759
+    second: RPGAssetsPack_115
+  - first:
+      213: -6454505161365450294
+    second: RPGAssetsPack_116
+  - first:
+      213: -4376198225438080950
+    second: RPGAssetsPack_117
+  - first:
+      213: -82456133041526980
+    second: RPGAssetsPack_118
+  - first:
+      213: 4616918248886132710
+    second: RPGAssetsPack_119
+  - first:
+      213: 6870330407966996605
+    second: RPGAssetsPack_120
+  - first:
+      213: -453839990715592491
+    second: RPGAssetsPack_121
+  - first:
+      213: -3384065778813889628
+    second: RPGAssetsPack_122
+  - first:
+      213: 5217256615997001262
+    second: RPGAssetsPack_123
+  - first:
+      213: 1752009530004224108
+    second: RPGAssetsPack_124
+  - first:
+      213: -4533571976372552515
+    second: RPGAssetsPack_125
+  - first:
+      213: 3341043752512644643
+    second: RPGAssetsPack_126
+  - first:
+      213: -2712011118124489839
+    second: RPGAssetsPack_127
+  - first:
+      213: -6248087979888028653
+    second: RPGAssetsPack_128
+  - first:
+      213: -562580088931473754
+    second: RPGAssetsPack_129
+  - first:
+      213: 7014543127541056136
+    second: RPGAssetsPack_130
+  - first:
+      213: -9176205596816756377
+    second: RPGAssetsPack_131
+  - first:
+      213: 6676623660000053494
+    second: RPGAssetsPack_132
+  - first:
+      213: 5596753611985958841
+    second: RPGAssetsPack_133
+  - first:
+      213: -4153802498244522645
+    second: RPGAssetsPack_134
+  - first:
+      213: -4637358234090528190
+    second: RPGAssetsPack_135
+  - first:
+      213: 8505552346334363450
+    second: RPGAssetsPack_136
+  - first:
+      213: 4775382089142746104
+    second: RPGAssetsPack_137
+  - first:
+      213: 7697585788116705833
+    second: RPGAssetsPack_138
+  - first:
+      213: -2659665890188399439
+    second: RPGAssetsPack_139
+  - first:
+      213: 3161701917117541579
+    second: RPGAssetsPack_140
+  - first:
+      213: 1646801135315958673
+    second: RPGAssetsPack_141
+  - first:
+      213: 2203277819674264147
+    second: RPGAssetsPack_142
+  - first:
+      213: -6467284657354724242
+    second: RPGAssetsPack_143
+  - first:
+      213: -4042052335744222960
+    second: RPGAssetsPack_144
+  - first:
+      213: -1233138582107477510
+    second: RPGAssetsPack_145
+  - first:
+      213: 7058149963687619598
+    second: RPGAssetsPack_146
+  - first:
+      213: 4573005197376391566
+    second: RPGAssetsPack_147
+  - first:
+      213: -5349926256817343851
+    second: RPGAssetsPack_148
+  - first:
+      213: -7449732230431897845
+    second: RPGAssetsPack_149
+  - first:
+      213: 7519064836258568797
+    second: RPGAssetsPack_150
+  - first:
+      213: 8978850097080828634
+    second: RPGAssetsPack_151
+  - first:
+      213: -4171455885794212458
+    second: RPGAssetsPack_152
+  - first:
+      213: -2274931756149743710
+    second: RPGAssetsPack_153
+  - first:
+      213: 117199434204112841
+    second: RPGAssetsPack_154
+  - first:
+      213: 6422702481419823714
+    second: RPGAssetsPack_155
+  - first:
+      213: -3813453291921973547
+    second: RPGAssetsPack_156
+  - first:
+      213: -7132713683484336195
+    second: RPGAssetsPack_157
+  - first:
+      213: -7238935438462714469
+    second: RPGAssetsPack_158
+  - first:
+      213: 3246090996992910966
+    second: RPGAssetsPack_159
+  - first:
+      213: 8870465263221730423
+    second: RPGAssetsPack_160
+  - first:
+      213: -7800963013522875357
+    second: RPGAssetsPack_161
+  - first:
+      213: 3958341948989388748
+    second: RPGAssetsPack_162
+  - first:
+      213: 602212994024061551
+    second: RPGAssetsPack_163
+  - first:
+      213: 8807350920832360464
+    second: RPGAssetsPack_164
+  - first:
+      213: 2456735392571415484
+    second: RPGAssetsPack_165
+  - first:
+      213: 3708126432758296817
+    second: RPGAssetsPack_166
+  - first:
+      213: 3767000459132768489
+    second: RPGAssetsPack_167
+  - first:
+      213: 4355559302131969576
+    second: RPGAssetsPack_168
+  - first:
+      213: 5374565936271087844
+    second: RPGAssetsPack_169
+  - first:
+      213: -5596277886338465745
+    second: RPGAssetsPack_170
+  - first:
+      213: 7429534849803273141
+    second: RPGAssetsPack_171
+  - first:
+      213: 704477300124575372
+    second: RPGAssetsPack_172
+  - first:
+      213: 3144971895548343581
+    second: RPGAssetsPack_173
+  - first:
+      213: 6879490149154184276
+    second: RPGAssetsPack_174
+  - first:
+      213: -3398709285544965950
+    second: RPGAssetsPack_175
+  - first:
+      213: 5287961034051701244
+    second: RPGAssetsPack_176
+  - first:
+      213: 2476972568139658732
+    second: RPGAssetsPack_177
+  - first:
+      213: 8223926052524878541
+    second: RPGAssetsPack_178
+  - first:
+      213: 2400706640135385054
+    second: RPGAssetsPack_179
+  - first:
+      213: 8185741665119585688
+    second: RPGAssetsPack_180
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RPGAssetsPack_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 103
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e07a0248afc91c30800000000000000
+      internalID: 4330720838262878433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 103
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bbd7f7730234ce0800000000000000
+      internalID: -1422257634584708295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 103
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c0bb16c26562840800000000000000
+      internalID: 5198937568464014353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 103
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a05331799aca1270800000000000000
+      internalID: 8222106830096257187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_4
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 103
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a4cd0923facfe20800000000000000
+      internalID: 3385773651589351957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 103
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3c58f3fb84a6320800000000000000
+      internalID: 2551932125100491754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 103
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e222acf954ea9e10800000000000000
+      internalID: 2205326042692985568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_7
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 103
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b80cdf09b757480800000000000000
+      internalID: -8902073225765156035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_8
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 103
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44804254088df8250800000000000000
+      internalID: 5949211678207117380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 103
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df359200420cfef60800000000000000
+      internalID: 8065876718497911805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 103
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbc4a5ddb1ae5650800000000000000
+      internalID: 6223589571777842126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_11
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 103
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427d29c8bd808b100800000000000000
+      internalID: 123858728801982244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_12
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 103
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c3e63f4c0fc6f30800000000000000
+      internalID: 4570292450562554938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_13
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 103
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cde0b1682a506190800000000000000
+      internalID: -7971272210961601079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_14
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 103
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18adbfe064c5881f0800000000000000
+      internalID: -1042481857767417215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_15
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 105
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4829a6f53aa7ff570800000000000000
+      internalID: 8502649463597863556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_16
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 103
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1ac36d834680750800000000000000
+      internalID: 6271372676388659659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 91
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd45c24cfcd599c30800000000000000
+      internalID: 4366624460643259613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 91
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607f729831775e370800000000000000
+      internalID: 8351212009817634566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_19
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 91
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bf92247fd475830800000000000000
+      internalID: 4059799313460099854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 91
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94c0167b6c933a10800000000000000
+      internalID: 1888024654154613914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_21
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 91
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c051242bd89fd40800000000000000
+      internalID: 5618677806873775210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_22
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 91
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7441c1bdb86340800800000000000000
+      internalID: 577646626514670663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_23
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 91
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f85c0c1200337d0800000000000000
+      internalID: -2940005986774708368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_24
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 91
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4ae6df6171816b0800000000000000
+      internalID: -5325481171857005398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_25
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 91
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c2917e29b3d4430800000000000000
+      internalID: 3768733965307423845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 91
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2bd99fec16e55d0800000000000000
+      internalID: -3071910354241080613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_27
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 91
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528a4ac33d6395e90800000000000000
+      internalID: -7036532661906266075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_28
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 91
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f694877c370f720800000000000000
+      internalID: 2877927462443511584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_29
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 91
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55338f0896c7b0c0800000000000000
+      internalID: -4559957741291752098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_30
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 91
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2420e6a4d112e8e60800000000000000
+      internalID: 7966341200551477826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_31
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 91
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c066a07d73f5f60800000000000000
+      internalID: 8025194457729469591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_32
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 91
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5849dc321399b50800000000000000
+      internalID: 6600360758730851823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_33
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 91
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ff903402b268940800000000000000
+      internalID: 5297969429211643769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 81
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcba7e931e2000a0800000000000000
+      internalID: -6917478365842981667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_35
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 81
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4599c02e8bf8319d0800000000000000
+      internalID: -2804740118692456108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 81
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080db8864b1acf0f0800000000000000
+      internalID: -1081812014255583104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_37
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 81
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2812cf793c804000800000000000000
+      internalID: 18168577093933100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_38
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 81
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1fdc81322e71560800000000000000
+      internalID: 7284539562662949308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_39
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 81
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac958aa0571f9b00800000000000000
+      internalID: 837413690939907246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_40
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f98128d14e075b30800000000000000
+      internalID: 4275902047173315058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd40f6c1a2e784e0800000000000000
+      internalID: -1979364326750794252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_42
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bf2ea0410332ee0800000000000000
+      internalID: -1287132205857703132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_43
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe13d022f88b922c0800000000000000
+      internalID: -4455827431415270929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_44
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 78
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d422c9013faf9e9d0800000000000000
+      internalID: -2744386576042941875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_45
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 78
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc751cec3eb5b1ed0800000000000000
+      internalID: -2442257338933880881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_46
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 78
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42d5b138d1a874a0800000000000000
+      internalID: -6595343704365084082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_47
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 78
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2c70bc4e0b6f850800000000000000
+      internalID: 6410505616313795252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_48
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 78
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d222d6addb1e3e130800000000000000
+      internalID: 3594965133101441581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_49
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 78
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f6c1e9206a1c030800000000000000
+      internalID: 3513271714498506640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 78
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eba8dab439a670d0800000000000000
+      internalID: -3425364422630528023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_51
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 78
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69a47e28f2a11080800000000000000
+      internalID: -9218407775435708053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_52
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 78
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95522579c84d2ae80800000000000000
+      internalID: -8168733073797405351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_53
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 72
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b8bd78aca965e90800000000000000
+      internalID: -7037267173066437740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_54
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 72
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb61ed10e757752b0800000000000000
+      internalID: -5595874827926890818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_55
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 72
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c306d1735e50790800000000000000
+      internalID: -7564387974220071807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_56
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 72
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb8a564951e8a250800000000000000
+      internalID: 5956258280746159088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_57
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 72
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a264fc2d8681740800000000000000
+      internalID: 5122959830763842123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_58
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 72
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8991c560a1d3fc000800000000000000
+      internalID: 58332502164248984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_59
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9354a0896d8760cf0800000000000000
+      internalID: -286408663222303431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ea37ff041ec7db0800000000000000
+      internalID: -4792708234149122496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_61
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fcbedc6eaf8e800800000000000000
+      internalID: 642038816104500995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_62
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186956a6354cc7ff0800000000000000
+      internalID: -36938834379434367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_63
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 67
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ad542339e256d70800000000000000
+      internalID: 9035679437127277184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_64
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 67
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066af830e8e439010800000000000000
+      internalID: 1194384698035381856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_65
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 67
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4231d1977ce4bc460800000000000000
+      internalID: 7262985442702463780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_66
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 67
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e42ba013e1ecc9b0800000000000000
+      internalID: -5058419916090432282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_67
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 67
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ac165864e5ed250800000000000000
+      internalID: 5971313812918356504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_68
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 67
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e0320e615b503d0800000000000000
+      internalID: -3240985246968901997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 67
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8ac56af05560340800000000000000
+      internalID: 4829641176105396466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_70
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 67
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed67d5b7493a96e50800000000000000
+      internalID: 6803148570240055006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_71
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 67
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66a44260cb634c50800000000000000
+      internalID: 6648275948955543149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 53
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96787e4da8eef350800000000000000
+      internalID: 6052530780276029083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_73
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 62
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7cf939e9044dff0800000000000000
+      internalID: -12313849149536283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_74
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 62
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6330a73d9183683e0800000000000000
+      internalID: -2051890896647355594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_75
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 53
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3906caddebfddac40800000000000000
+      internalID: 5525318328709308563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_76
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 60
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f49da0f0ae91900800000000000000
+      internalID: 655812571086540682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_77
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 60
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7baad25ff43be2a0800000000000000
+      internalID: -6707208948826854533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_78
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 60
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36aabe5d30f5ac3b0800000000000000
+      internalID: -5491472325546366365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_79
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 56
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22be3e9767196ba70800000000000000
+      internalID: 8842414856425696034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_80
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 56
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a8bdf343f0d7810800000000000000
+      internalID: 1764583346083170880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_81
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 56
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22887db71a7209e50800000000000000
+      internalID: 6813989810732501026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_82
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 56
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f7cb22101ecf490800000000000000
+      internalID: -7711041066971136111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_83
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 56
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0854adbc338863bf0800000000000000
+      internalID: -344938565402475136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_84
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 56
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4673ac5bd628ff0800000000000000
+      internalID: -35345219516406563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 56
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d5285121d1693d0800000000000000
+      internalID: -3200338521692676743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_86
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 56
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85330b4eb3a36f00800000000000000
+      internalID: 1108909970960889227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_87
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 56
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f58fc1cfd4704960800000000000000
+      internalID: 7584190276870047224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_88
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 53
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5153b315de9fcd780800000000000000
+      internalID: -8656769586047535851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_89
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 53
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc05ad64f889b600800000000000000
+      internalID: 484569018311969973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_90
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 53
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8006ea839d723a50800000000000000
+      internalID: 6499395284893040780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_91
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 53
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0a76b8daa6aeaa0800000000000000
+      internalID: -6130970649110798135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_92
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 53
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5af2156bab924050800000000000000
+      internalID: 5783356031934593631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_93
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 53
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074e9e8c01a5a5be0800000000000000
+      internalID: -1487777698755779472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_94
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 53
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1b1eded2e776a90800000000000000
+      internalID: -7320743933537832482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_95
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 53
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85794f40378381940800000000000000
+      internalID: 5267021830865327960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_96
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 53
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1a861cddf2bc390800000000000000
+      internalID: -7797085700382744149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_97
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 53
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9775d5651354d20800000000000000
+      internalID: 3262067752102754796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_98
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 38
+        width: 137
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e681e103de73c80a0800000000000000
+      internalID: -6878061039047534482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_99
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 38
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db63573cd2a8216d0800000000000000
+      internalID: -3021200470854781251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_100
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 38
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba93a4f3671a14b0800000000000000
+      internalID: -5469033079414482241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_101
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d4e131affe8add0800000000000000
+      internalID: -2474464137898472148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_102
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5315870ac335cb60800000000000000
+      internalID: 7765670075272860511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_103
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a664c5f9ee0d080800000000000000
+      internalID: -9164562873483629963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_104
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8941b8225fe28c950800000000000000
+      internalID: 6469472495099122840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_105
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d363fcdab1225fee0800000000000000
+      internalID: -1228037821113092547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_106
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e4aa90214e5e9b0800000000000000
+      internalID: -5051380640903442817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_107
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8863588ca8e76ca30800000000000000
+      internalID: 4235211634123290248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_108
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666fc9ba72bd1f3d0800000000000000
+      internalID: -3174515298890090906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_109
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a8e30edadd18630800000000000000
+      internalID: 3927664088905058857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_110
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de29634565824740800000000000000
+      internalID: 5134813195124944598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_111
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb4db3e2f627a9b0800000000000000
+      internalID: -5069040030937428995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_112
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e75928cbe210c40800000000000000
+      internalID: 5476710009038798393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_113
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1613e64ce048881a0800000000000000
+      internalID: -6807045637810540191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_114
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defdd5ec9b4d31210800000000000000
+      internalID: 1302618611736502253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_115
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6cc3808b179c030800000000000000
+      internalID: 3515466019365504759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_116
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac113efc0cdfc66a0800000000000000
+      internalID: -6454505161365450294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_117
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40811a66ee9443c0800000000000000
+      internalID: -4376198225438080950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_118
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 25
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37e188759e0bdef0800000000000000
+      internalID: -82456133041526980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_119
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 25
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef50e59fa6921040800000000000000
+      internalID: 4616918248886132710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_120
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 25
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78ff600b11585f50800000000000000
+      internalID: 6870330407966996605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_121
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 25
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0d788dee2a3b9f0800000000000000
+      internalID: -453839990715592491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_122
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a31e3d8a126901d0800000000000000
+      internalID: -3384065778813889628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_123
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ece82004b676840800000000000000
+      internalID: 5217256615997001262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_124
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68300f8263605810800000000000000
+      internalID: 1752009530004224108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_125
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcf5a0be448511c0800000000000000
+      internalID: -4533571976372552515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_126
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326ed8f5795cd5e20800000000000000
+      internalID: 3341043752512644643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_127
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193a745c1400d5ad0800000000000000
+      internalID: -2712011118124489839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_128
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314d26906155a49a0800000000000000
+      internalID: -6248087979888028653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_129
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 22
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a62889c3605138f0800000000000000
+      internalID: -562580088931473754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_130
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8820eb25fc9a85160800000000000000
+      internalID: 7014543127541056136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_131
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76139c790a197a080800000000000000
+      internalID: -9176205596816756377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_132
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8854138d128ac50800000000000000
+      internalID: 6676623660000053494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_133
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 20
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7bec9d1c9abad40800000000000000
+      internalID: 5596753611985958841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_134
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 20
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d4109b2aaba56c0800000000000000
+      internalID: -4153802498244522645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_135
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 20
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2422dc0814bc4afb0800000000000000
+      internalID: -4637358234090528190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_136
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fffbd6bcac90670800000000000000
+      internalID: 8505552346334363450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_137
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbbd1285b0954240800000000000000
+      internalID: 4775382089142746104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_138
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922aac0ad7153da60800000000000000
+      internalID: 7697585788116705833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_139
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 15
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bce812e6f7f61bd0800000000000000
+      internalID: -2659665890188399439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_140
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 15
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc6677642f90eb20800000000000000
+      internalID: 3161701917117541579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_141
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 15
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bb73e48ec9ad610800000000000000
+      internalID: 1646801135315958673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_142
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 15
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3528e27e08d939e10800000000000000
+      internalID: 2203277819674264147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_143
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 11
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ca9098ed69f36a0800000000000000
+      internalID: -6467284657354724242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_144
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0197d6cf0deb7e7c0800000000000000
+      internalID: -4042052335744222960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_145
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 11
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9a7a63ef203eee0800000000000000
+      internalID: -1233138582107477510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_146
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 11
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c690d0ff593f160800000000000000
+      internalID: 7058149963687619598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_147
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 11
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8982a98ff3967f30800000000000000
+      internalID: 4573005197376391566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_148
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 11
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592fddf1a6e31c5b0800000000000000
+      internalID: -5349926256817343851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_149
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 11
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07045db10c3d9890800000000000000
+      internalID: -7449732230431897845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_150
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a925081a5195860800000000000000
+      internalID: 7519064836258568797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_151
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 11
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad20cff57984b9c70800000000000000
+      internalID: 8978850097080828634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_152
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695060329f20c16c0800000000000000
+      internalID: -4171455885794212458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_153
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 11
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af5072fe91dd60e0800000000000000
+      internalID: -2274931756149743710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_154
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 11
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7ec93b34060a100800000000000000
+      internalID: 117199434204112841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_155
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 11
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a6c0fb0e5022950800000000000000
+      internalID: 6422702481419823714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_156
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de527f7f64e31bc0800000000000000
+      internalID: -3813453291921973547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_157
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 11
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf195312b2830d90800000000000000
+      internalID: -7132713683484336195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_158
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d717e72922a8b90800000000000000
+      internalID: -7238935438462714469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_159
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 11
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6762b50309e6c0d20800000000000000
+      internalID: 3246090996992910966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_160
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 11
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ce5ceb8293a1b70800000000000000
+      internalID: 8870465263221730423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_161
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 11
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c120178796db390800000000000000
+      internalID: -7800963013522875357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_162
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 5
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc73a09c70bdee630800000000000000
+      internalID: 3958341948989388748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_163
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 5
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6abde3078d7b5800800000000000000
+      internalID: 602212994024061551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_164
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 5
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0102c68cffef93a70800000000000000
+      internalID: 8807350920832360464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_165
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 5
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb595db2d3181220800000000000000
+      internalID: 2456735392571415484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_166
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f07bc61859e57330800000000000000
+      internalID: 3708126432758296817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_167
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0975b85f2174430800000000000000
+      internalID: 3767000459132768489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_168
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e69b9cb1e027c30800000000000000
+      internalID: 4355559302131969576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_169
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e85a5d4e3b469a40800000000000000
+      internalID: 5374565936271087844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_170
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f200c68a9e60652b0800000000000000
+      internalID: -5596277886338465745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_171
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3c8e025920b1760800000000000000
+      internalID: 7429534849803273141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_172
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86604a3f5ec6c900800000000000000
+      internalID: 704477300124575372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_173
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15feb6b64f25ab20800000000000000
+      internalID: 3144971895548343581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_174
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 2
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c522077dbd87f50800000000000000
+      internalID: 6879490149154184276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_175
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8454479eb55d0d0800000000000000
+      internalID: -3398709285544965950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_176
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf942cc2b8c926940800000000000000
+      internalID: 5287961034051701244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_177
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5f95a5d69ff5220800000000000000
+      internalID: 2476972568139658732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_178
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca63db2c21412270800000000000000
+      internalID: 8223926052524878541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_179
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfe03f38f5015120800000000000000
+      internalID: 2400706640135385054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPGAssetsPack_180
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895419caca8999170800000000000000
+      internalID: 8185741665119585688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
