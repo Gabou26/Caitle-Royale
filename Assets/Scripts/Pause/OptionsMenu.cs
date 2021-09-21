@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Audio;
+using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
 public class OptionsMenu : MonoBehaviour
@@ -28,7 +29,8 @@ public class OptionsMenu : MonoBehaviour
         cGroup.blocksRaycasts = true;
         cGroup.interactable = true;
 
-        defaultButton.Select();
+        EventSystem.current.SetSelectedGameObject(defaultButton.gameObject);
+        //defaultButton.Select();
     }
 
     public void Close()

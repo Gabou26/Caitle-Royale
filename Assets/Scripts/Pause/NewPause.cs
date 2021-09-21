@@ -8,7 +8,7 @@ using UnityEngine.UI;
 
 public class NewPause : MonoBehaviour
 {
-    [SerializeField] private GameObject[] buttons;
+    [SerializeField] private Button[] buttons;
     public TransitionUI trans;
 
     RectTransform rect;
@@ -27,6 +27,7 @@ public class NewPause : MonoBehaviour
 
     private void Update()
     {
+        //Transition
         if (delaiCour >= 1)
             return;
 
@@ -52,8 +53,11 @@ public class NewPause : MonoBehaviour
         StartCoroutine(ChangeCurrentScene(sceneName));
     }
 
-    public void Show(bool inputKeyboard)
+    public void Show()
     {
+        if (SceneManager.GetActiveScene().name == "GameOption")
+            return;
+
         open = true;
         cGroup.interactable = true;
         CharacterController2D.paused = true;

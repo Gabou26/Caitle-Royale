@@ -281,7 +281,7 @@ public class ZoneManager : MonoBehaviour
 
 
     //Editor
-    /*private void OnDrawGizmos()
+    private void OnDrawGizmos()
     {
         foreach (GameObject zone in GameObject.FindGameObjectsWithTag("Zone"))
         {
@@ -296,5 +296,5 @@ public class ZoneManager : MonoBehaviour
                 Gizmos.DrawWireSphere(zone.transform.parent.position, 0.3f);
             }
         }     
-    }*/
+    }
 }

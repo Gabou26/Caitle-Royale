@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
@@ -21,7 +22,8 @@ public class BasePause : MonoBehaviour
         cGroup.blocksRaycasts = true;
         cGroup.interactable = true;
 
-        defaultButton.Select();
+        EventSystem.current.SetSelectedGameObject(defaultButton.gameObject);
+        //defaultButton.Select();
     }
 
     public void Close()

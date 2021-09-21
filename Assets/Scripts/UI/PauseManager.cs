@@ -5,12 +5,12 @@ using UnityEngine.InputSystem;
 
 public class PauseManager : MonoBehaviour
 {
-    private void OnPause(PlayerInput input)
+    private void OnPause()
     {
         NewPause pauseMenu = FindObjectOfType<NewPause>();
         if (!pauseMenu.open)
         {
-            pauseMenu.Show(input.currentControlScheme.Equals("MouseKeyboard"));
+            pauseMenu.Show();
         }
         else
         {

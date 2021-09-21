@@ -253,7 +253,7 @@ public class GameManager : MonoBehaviour
             if (!player.activeSelf && !forcePos) //&& !(GameManager.instance is RoyaleGame)
             {
                 if (spawnSpotsParent != null)
-                    player.transform.position = GetRandomSpawn(player);
+                    player.transform.position = GetRandomSpawn(player, forcePos);
                 else
                 {
                     player.transform.position = spawnSpots[nextSpawn];
@@ -275,7 +275,7 @@ public class GameManager : MonoBehaviour
             else if (forcePos)
             {
                 if (spawnSpotsParent != null)
-                    player.transform.position = GetRandomSpawn(player);
+                    player.transform.position = GetRandomSpawn(player, forcePos);
                 else
                 {
                     player.transform.position = spawnSpots[nextSpawn];
@@ -455,11 +455,20 @@ public class GameManager : MonoBehaviour
         return false;
     }
 
-    public Vector2 GetRandomSpawn(GameObject player)
+    public Vector2 GetRandomSpawn(GameObject player, bool globalSpawn = false)
     {
         //Si joueur Spawn dans zone
         if (player.layer == 8 && JoueurVie())
-            return ObtSpawnProche(ObtMoyTGroup());
+        {
+            if (globalSpawn)
+            {
+                print("gloabl");
+                if (players[0] != player)
+                    return ObtSpawnProche(players[0].transform.position);
+            }
+            else
+                return ObtSpawnProche(ObtMoyTGroup());
+        }
 
         if (spawnSpotsList == null || spawnSpotsList.Count <= 0)
             ResetSpawnSpotsList();
@@ -496,9 +505,29 @@ public class GameManager : MonoBehaviour
 
     Vector2 ObtSpawnProche(Vector2 posBase)
     {
-        Transform spawnEtage = spawnSpotsParent.GetChild(etageId);
-        Vector2 bestPos = spawnEtage.GetChild(0).position;
+        Transform bestZone = ObtZoneProche(posBase);
+        Vector2 bestPos = bestZone.GetChild(0).position;
         float bestDist = Vector2.Distance(posBase, bestPos);
+        float dist;
+        Vector2 pos;
+        for (int i = 1; i < bestZone.childCount; i++)
+        {
+            pos = bestZone.GetChild(i).position;
+            dist = Vector2.Distance(posBase, pos);
+            if (dist < bestDist)
+            {
+                bestDist = dist;
+                bestPos = pos;
+            }
+        }
+        return bestPos;
+    }
+
+    Transform ObtZoneProche(Vector2 posBase)
+    {
+        Transform spawnEtage = spawnSpotsParent.GetChild(etageId);
+        Transform bestZone = spawnEtage.GetChild(0);
+        float bestDist = Vector2.Distance(posBase, bestZone.position);
         float dist;
         Vector2 pos;
         for (int i = 1; i < spawnEtage.childCount; i++)
@@ -508,10 +537,10 @@ public class GameManager : MonoBehaviour
             if (dist < bestDist)
             {
                 bestDist = dist;
-                bestPos = pos;
+                bestZone = spawnEtage.GetChild(i);
             }
         }
-        return bestPos;
+        return bestZone;
     }
 
     public void ResetSpawnSpotsList()
