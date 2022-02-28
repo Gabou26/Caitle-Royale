@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 0591521382d93c04686c5fb6984a4798
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  missingFiles: []
+  errors:
+  - Invalid rectangle (Tile ID ='222') in tileset '8x' has zero width
+  warnings:
+  - Tileset '8x' is an embedded tileset. Exported tilesets are preferred.
+  missingSortingLayers: []
+  missingLayers: []
+  missingTags: []
+  importerVersion: 24
+  pixelsPerUnit: 8
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 676
+  tilesAsObjects: 0
+  sortingMode: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets:
+  - {instanceID: 0}

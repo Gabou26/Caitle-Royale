@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8422356602828776412
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8422356602828776410}
+  - component: {fileID: 8422356602828776413}
+  m_Layer: 0
+  m_Name: NameGenerator
+  m_TagString: NameGenerator
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8422356602828776410
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8422356602828776412}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.9419605, y: -0.6398513, z: -11.91504}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8422356602828776413
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8422356602828776412}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2792e6b5789aaa94ca7f3edc31c900c3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nameGenerator:
+  - Pou
+  - Myntian
+  - Winterest
+  - LinkWaker
+  - Br3d
+  - Samouel
+  - Louis
+  - Frank
+  - Oliver
+  - Maxou
+  - Quentin
+  - Teo
+  - Piggie
+  - Opposum
+  - Aspera
+  - Ana
+  - John
+  - Orange
+  - Pink
+  - Atai
+  - Jackson
+  - Nayane
+  - Patof
+  - Masie
+  - Emile-Oli
+  - Renoise
+  - FL Studio
+  - Komplete13
+  - Ableton
+  - Studio One
+  - Carter
+  - Treetone
+  - Gerudo
+  - Tony
+  - Sno
+  - Djeb
+  - moop
+  - Peri
+  - Ganon
+  - Saria
+  - Malon
+  - MoeShop
+  - Malo
+  - Megarexx
+  - RTPerson
+  - Snufee
+  - Vibea
+  - Nordiques
+  - Jordan
+  - Rowser
+  - Malo
+  - Magfurr
+  - Tabarnak
+  - Qrest
+  - wonme
+  - Yoshi
+  - Kevin
+  - Gh0st
+  - Nabigh
+  - Lode
+  - Matcha
+  - Rice
+  - Melanie
+  - Ricardo
+  - Shokii
+  - Cynth
+  - Flowerman
+  - Ficelle
+  - Georges
+  - Francis
+  - Chucky
+  - Chanelle
+  - wasiur
+  - Covid
+  - Adrian
+  - Elena
+  - Arnaud
