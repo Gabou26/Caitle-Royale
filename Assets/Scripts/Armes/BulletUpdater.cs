@@ -1,11 +1,22 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// Bullet Updater du jeu.
+/// S'occupe de gérer le mouvement, affichage, détection de contact et gestion de vie de l'ensemble des balles de jeu.
+/// Sa gestion en un endroit permet de minimiser et contrôler le nombre d'appels de chaque balle ainsi que manipuler ceux-ci facilement.
+/// Points importants :
+/// Liste personnalisée retire le délai requis pour atteindre un index d'array.
+/// Délai d'appel : Permet d'appeler un nombre dynamique de balles afin de limiter le nombre d'appels par "frame" et minimiser les risques de "lag".
+/// Affichage : Désactive l'affichage et simule son mouvement lorsqu'il est en dehors de l'écran.
+/// Pooling : Limite le nombre de balles détruites et instantiées en gérant ceux-ci en arrière-plan. Est aussi détruit constamment afin d'empêcher des lag spikes.
+/// Instance : Similaire à un static, permet son accès rapide pour chaque personnages et arme associée. (Peut être changé si je trouve une solution plus viable)
+/// </summary>
 public class BulletUpdater : MonoBehaviour
 {
     public enum BulletType { BASE, FIREBALL, LIGHTNING, ROCK, STALLAGLITE, TORNADE }
 
-    //
+    //Données des Bullets. Utilisée dans la recherche et manipulation de masse.
     public class BulletData
     {
         public Bullet bullet;
