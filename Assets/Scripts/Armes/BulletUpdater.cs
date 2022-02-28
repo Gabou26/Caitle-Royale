@@ -159,6 +159,10 @@ public class BulletUpdater : MonoBehaviour
         }
     }
 
+    /// <summary>
+    /// Met à jour les délais de bullets.
+    /// Utilisé lorsqu'un bullet est désactivé/retiré de la liste.
+    /// </summary>
     void ResetVerifCour(BulletData bullStr)
     {
         if (bullCurLife == bullStr)
@@ -183,6 +187,9 @@ public class BulletUpdater : MonoBehaviour
         }
     }
 
+    /// <summary>
+    /// Réinitialise les intervalles d'appels pour les bullets, selon le nombre actif.
+    /// </summary>
     void ResetIntervalles()
     {
         int count = bulletList.Count;
@@ -208,6 +215,9 @@ public class BulletUpdater : MonoBehaviour
             interHit = 0.2f;
     }
 
+    /// <summary>
+    /// Place le nouvel bullet dans la liste de pooling
+    /// </summary>
     public void StoreBulletPool(Bullet bullet)
     {
         BulletPool newPool = new BulletPool();
